@@ -7,7 +7,7 @@ const Menubar = ({ count }) => {
         <div>
             <Navbar bg="light" expand="lg" className='py-3'>
                 <Container>
-                    <Navbar.Brand href="http://localhost:3000/" className='fs-3' style={{ color: 'rgb(80, 80, 80)' }}>Shopper</Navbar.Brand>
+                    <Navbar.Brand href='#' className='fs-3' style={{ color: 'rgb(80, 80, 80)' }}>Shopper</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav
