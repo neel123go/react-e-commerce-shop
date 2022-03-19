@@ -23,7 +23,7 @@ const ProductDetails = (props) => {
                 </div>
                 <Modal.Body>
                     <h6>Category: {category}</h6>
-                    <h3>Price: {price}TK</h3>
+                    <h3>Price: {price}$</h3>
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="danger" onClick={handleClose}>
